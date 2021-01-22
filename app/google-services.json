@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021024752551",
+    "project_id": "scuffedchat-7dc09",
+    "storage_bucket": "scuffedchat-7dc09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021024752551:android:838f346d01dcd8b9cd1c82",
+        "android_client_info": {
+          "package_name": "com.immunix.scuffedchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021024752551-a9fv4rek3qodggo4rukb39r4aip4vutb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmCbEAz4jYZYwW4m395GdmUJEKYkt9Q_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021024752551-a9fv4rek3qodggo4rukb39r4aip4vutb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
