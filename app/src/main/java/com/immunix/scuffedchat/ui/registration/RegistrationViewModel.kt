@@ -7,9 +7,8 @@ class RegistrationViewModel : ViewModel() {
 
     private lateinit var mAuth: FirebaseAuth
 
-    // why like this tho
-    // why cant i just use the variable directly
-    fun shit(kek: FirebaseAuth) {
+    // TODO registration
+    fun foo(kek: FirebaseAuth) {
         mAuth = FirebaseAuth.getInstance()
     }
 }

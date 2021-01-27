@@ -8,4 +8,7 @@
     <color name="brown_700">#5D4037</color>
     <color name="brown_500">#795548</color>
     <color name="brown_200">#BCAAA4</color>
+
+    <!--something something material green 900-->
+    <color name="nice_green">#004D40</color>
 </resources>
